@@ -5,6 +5,7 @@ from pyrob.api import *
 
 @task
 def task_3_1():
+    wall_is_on_the_right()
     pass
 
 
